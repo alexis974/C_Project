@@ -17,6 +17,7 @@ function rename_project_exe()
 
 if [ $# -ne 1 ]; then
     print_usage "$1"
+    exit 1
 fi
 
 case $1 in
