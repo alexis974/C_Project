@@ -1,0 +1,13 @@
+# General
+build
+release
+
+# Binaries
+project_name
+
+# Test
+*.tmp
+
+# Log
+log
+*.log
