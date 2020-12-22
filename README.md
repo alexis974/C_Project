@@ -4,7 +4,7 @@ A starting point for every C project.
 ## Building :hammer:
 
 You can build your project in Release or Debug mode.
-Once build, your executable will at the root of your projet directory.
+Once build, your executable will be at the root of your projet directory.
 
 ### Release
 
