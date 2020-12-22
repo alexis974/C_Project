@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("Good luck on you new project\n");
+    printf("Good luck on your new project\n");
 
     return 0;
 }
