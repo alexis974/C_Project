@@ -31,3 +31,18 @@ $ cd debug
 $ cmake -DCMAKE_BUILD_TYPE=Debug ..
 $ make
 ```
+
+### Project name
+
+By default the project name is '*project_name*'.
+To change this name, you can run :
+
+```sh
+$ ./rename_project_exe.sh <your_project_name>
+```
+
+If you want to display usage, you can run :
+
+```sh
+$ ./rename_project_exe.sh -h
+```
